@@ -6,7 +6,7 @@ This project analyzes retail sales data from a Coffee Shop to gain actionable in
 1.Installation and Usage
 Clone the Repository:
 Clone this repository to your local machine using:
-####  git clone https://github.com/Robbin808/coffee-sales-analysis.git ####
+####  git clone https://github.com/Robbin808/Coffee_sales_report ####
 
 2.Open the Excel File:
 Open the (coffee_sales.xlsx) file in Excel.
