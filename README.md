@@ -1,20 +1,22 @@
-Project Title:
-Choose a descriptive title for your project, such as “Coffee Shop Sales Analysis.”
+*****Coffee Shop Sales Analysis*****
 
-Project Description:
-Briefly explain what your project does. For example:
+Overview
+This project analyzes retail sales data from a Coffee Shop to gain actionable insights. The dataset includes information on product sales, revenue, and customer behavior. The analysis was performed using Excel, with key features created using Power Query and Pivot Tables.
 
-This project analyzes retail sales data from a Coffee Shop to gain actionable insights. It includes a dashboard report created in Excel using Power Query and Pivot Tables.
+1.Installation and Usage
+Clone the Repository:
+Clone this repository to your local machine using:
+####  git clone https://github.com/Robbin808/coffee-sales-analysis.git ####
 
-Installation and Usage:
-Provide instructions on how to set up and run your project. Include details on how to install any dependencies (if applicable) and how to use the dashboard.
+2.Open the Excel File:
+Open the (coffee_sales.xlsx) file in Excel.
+Explore the dashboard to view sales insights, including:
+Sales variation by day and hour.
+Total sales revenue by month.
+Best-selling products by quantity and revenue
 
-To use this project:
-Clone the repository.
-Open the coffee_sales.xlsx file in Excel.
-Explore the dashboard to view sales insights.
+Data Source
+The dataset used for this analysis can be found here.
 
-Credits and Acknowledgments:
-Mention any external libraries, tools, or data sources you used.
-Data source: Coffee Sales Dataset
-Excel functions: Power Query, Pivot Tables
+Credits
+Excel functions used: Power Query, Pivot Tables
